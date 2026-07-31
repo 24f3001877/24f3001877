@@ -7,7 +7,7 @@ Full-Stack Developer
 Data Science student at IIT Madras who builds and ships full-stack backend systems independently. Proven ability to design REST APIs, manage relational databases with PostgreSQL-ready ORMs, and deploy cloud-native applications end-to-end. Comfortable across the stack — from Python/Flask backends and SQL schemas to JavaScript frontends
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [here](http://github.com/24f3001877)
+* 🖥️  See my portfolio [here](https://pranayjena.netlify.app/)
 * ✉️  You can contact me at [pranayjena2006@gmail.com](mailto:pranayjena2006@gmail.com)
 * 🚀  I'm currently working on [SolarWatch](http://https://web-production-ec80a.up.railway.app/)
 * 🧠  I'm currently learning ML and data engineering
